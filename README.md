@@ -29,6 +29,15 @@ Welcome to the Leads Tracker Chrome Extension! This extension is designed to hel
   - Click on the "Delete All" button.
   - Confirm the action, and all saved data will be permanently removed.
 
+## Using this extension
+
+1. Clone or download this repository to your local machine.
+2. Open Google Chrome and go to "chrome://extensions/".
+3. Enable "Developer mode" using the toggle switch in the top-right corner.
+4. Click on "Load unpacked" and select the directory where you cloned or downloaded the repository.
+5. The Leads Tracker extension will be added to your Chrome browser.
+6. Click on the extension icon in the Chrome toolbar to access the features.
+
 ## Feedback and Support
 
 If you encounter any issues, have suggestions, or need assistance, feel free to reach out to me. Your feedback is valuable in improving the functionality and user experience of Leads Tracker.
